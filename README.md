@@ -1,4 +1,3 @@
-Credit scoring Project
+## **Credit scoring Project**
 
-This group project showcases showcases predictive modeling, data preprocessing, and risk analysis skills./
-It highlights the ability to apply machine learning techniques to real-world financial problems, interpret customer behavior data, and generate actionable insights for improving client retention and decision-making.
+This group project focuses on predicting customer churn for Société Générale using a machine learning classification model. Acting as risk managers, our goal was to identify customers likely to close their accounts so the bank could take preventive actions and improve retention. Conducted in Python on Google Colab, the project involved data preprocessing, feature engineering, and model evaluation using libraries such as NumPy, pandas, scikit-learn, matplotlib, and seaborn. It showcases skills in predictive analytics, risk assessment, and data-driven decision-making within a financial context.
